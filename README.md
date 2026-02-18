@@ -1,6 +1,6 @@
 # Hi, I'm Nik Adzic 👋
 
-Founder and AI Focused Engineer.  
+Founder and AI Focused Engineer. 
 I help teams ship production-ready products faster by combining full-stack execution with AI-native workflows.
 
 [![Book AI Intro Call](https://img.shields.io/badge/%F0%9F%91%89%20Book%20AI%20Intro%20Call-111111?style=for-the-badge)](https://calendly.com/nik-adzic-urw_/30min)
