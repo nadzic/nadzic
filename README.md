@@ -2,8 +2,8 @@
 
 📍 **San Francisco ↔ Valencia ↔ Beltinci** | 🤖 **AI Enthusiast** | 🚀 **Ex-Perfeqt Founder** ([perfeqt.co](https://perfeqt.co))
 
-Founder and AI Focused Engineer. 
-I help teams ship production-ready products faster by combining full-stack execution with AI-native workflows.
+> Founder and AI Focused Engineer. 
+> I help teams ship production-ready products faster by combining full-stack execution with AI-native workflows.
 
 ![Cursor](https://img.shields.io/badge/-Cursor-121212?style=flat-square&logo=data-bricks&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
@@ -15,13 +15,9 @@ I help teams ship production-ready products faster by combining full-stack execu
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Right now working on...
+> Right now working on...
 
 🍭 **[veritake.ai](https://veritake.ai/)** — AI-powered execution and trust layer for AI agents.
-
-[![Book AI Intro Call](https://img.shields.io/badge/%F0%9F%91%89%20Book%20AI%20Intro%20Call-111111?style=for-the-badge)](https://calendly.com/nik-adzic-urw_/30min)
-[![X](https://img.shields.io/badge/X-@nadzic-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nadzic)
-[![Email](https://img.shields.io/badge/Email-nik%40adzic.dev-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nik@adzic.dev)
 
 ---
 
@@ -30,10 +26,6 @@ Right now working on...
 - AI-native product engineering from idea to production
 - Fast iteration loops with quality and ownership
 - Building practical tools for modern teams
-
-### Stack & Tools
-
-`Cursor` · `Codex` · `Conductor` · `Greptile` · `React` · `GraphQL` · `Jotai/Redux` · `TypeScript` · `Python`
 
 ---
 
