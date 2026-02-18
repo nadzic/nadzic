@@ -17,7 +17,7 @@ I help teams ship production-ready products faster by combining full-stack execu
 
 ### Stack & Tools
 
-`Cursor` · `Codex` · `Conductor` · `Greptile` · `React` · `GraphQL` · `TypeScript` · `Python`
+`Cursor` · `Codex` · `Conductor` · `Greptile` · `React` · `GraphQL` · `Jotai/Redux` · `TypeScript` · `Python`
 
 ---
 
@@ -31,11 +31,21 @@ I help teams ship production-ready products faster by combining full-stack execu
   Lightweight quant sandbox for backtesting, signal exploration, and rapid strategy experiments.  
   **Tech:** Python
 
+
+### Legacy Projects
+
 - [**nintendo_app**](https://github.com/nadzic/nintendo_app)  
-  Java portfolio project, included among latest active repositories by update time.  
+  Legacy Java portfolio app from earlier mobile development experiments.  
   **Tech:** Java
 
----
+- [**orderbook**](https://github.com/nadzic/orderbook)  
+  Earlier limit order book implementation exploring market microstructure mechanics.  
+  **Tech:** TypeScript
+
+- [**draw_app**](https://github.com/nadzic/draw_app)  
+  Collaborative drawing app prototype for experimenting with real-time web interactions.  
+  **Tech:** React, Node.js
+
 
 ### Let's Connect
 
