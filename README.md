@@ -1,7 +1,23 @@
 # Hi, I'm Nik Adzic 👋
 
+📍 **San Francisco ↔ Valencia ↔ Beltinci** | 🤖 **AI Enthusiast** | 🚀 **Ex-Perfeqt Founder** ([perfeqt.co](https://perfeqt.co))
+
 Founder and AI Focused Engineer. 
 I help teams ship production-ready products faster by combining full-stack execution with AI-native workflows.
+
+![Cursor](https://img.shields.io/badge/-Cursor-121212?style=flat-square&logo=data-bricks&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Conductor](https://img.shields.io/badge/-Conductor-008080?style=flat-square&logo=airflow&logoColor=white)
+![Greptile](https://img.shields.io/badge/-Greptile-3178C6?style=flat-square&logo=search&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Jotai/Redux](https://img.shields.io/badge/-Jotai%2FRedux-764abc?style=flat-square&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Right now working on...
+
+🍭 **[veritake.ai](https://veritake.ai/)** — AI-powered execution and trust layer for AI agents.
 
 [![Book AI Intro Call](https://img.shields.io/badge/%F0%9F%91%89%20Book%20AI%20Intro%20Call-111111?style=for-the-badge)](https://calendly.com/nik-adzic-urw_/30min)
 [![X](https://img.shields.io/badge/X-@nadzic-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nadzic)
@@ -46,6 +62,12 @@ I help teams ship production-ready products faster by combining full-stack execu
   Collaborative drawing app prototype for experimenting with real-time web interactions.  
   **Tech:** React, Node.js
 
+### Outside of Work
+
+- Staying active with biking and gym sessions when I'm away from the keyboard
+- Passionate about AI—constantly testing new tools and optimizing my workflows for greater parallelism with AI
+- Actively running quantitative trading strategies on LEAPS (options) and stocks using mini quant
+- Exploring and optimizing yield strategies in DeFi (Curve, Aave, Morpho, and more)
 
 ### Let's Connect
 
