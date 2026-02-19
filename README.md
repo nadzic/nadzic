@@ -65,6 +65,5 @@
 ### Let's Connect
 
 - 👉 [Book AI Intro Call](https://calendly.com/nik-adzic-urw_/30min)
-- [X / Twitter](https://x.com/nadzic)
 - [GitHub](https://github.com/nadzic)
 - [Email](mailto:nik@adzic.dev)
