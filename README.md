@@ -14,6 +14,7 @@
 ![Jotai/Redux](https://img.shields.io/badge/-Jotai%2FRedux-764abc?style=flat-square&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 
 > Right now working on...
 
