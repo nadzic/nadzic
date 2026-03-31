@@ -51,7 +51,8 @@ Focused on deployable LLM applications, vector search, and scalable backend AI s
   **Tech:** LangChain, LangGraph, FastAPI, Next.js, Qdrant, LlamaIndex
 
 - [**Fine-Tuning & Inference for Financial LLM Systems**](https://github.com/nadzic/mini_quant)  
-  Fine-tuning generative LLMs (Qwen) and cross-encoder reranking models for financial document retrieval using SEC filings and earnings call transcripts.  
+  Fine-tuning generative LLMs (Qwen) and cross-encoder reranking models for financial document retrieval using SEC filings and earnings call transcripts. 
+  
   **Tech:** Python, Transformers, PEFT, Qwen, Unsloth
 
 
