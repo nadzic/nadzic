@@ -46,8 +46,9 @@ Focused on deployable LLM applications, vector search, and scalable backend AI s
   - analyst-specialized agents
   - retrieval-augmented market context
   - risk constraints
-  - and a production-style API and frontend  
-**Tech:** LangChain, LangGraph, FastAPI, Next.js, Qdrant, LlamaIndex
+  - and a production-style API and frontend
+
+  **Tech:** LangChain, LangGraph, FastAPI, Next.js, Qdrant, LlamaIndex
 
 - [**Fine-Tuning & Inference for Financial LLM Systems**](https://github.com/nadzic/mini_quant)  
   Fine-tuning generative LLMs (Qwen) and cross-encoder reranking models for financial document retrieval using SEC filings and earnings call transcripts.  
