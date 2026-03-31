@@ -4,9 +4,6 @@ Senior AI Engineer building production-grade agentic systems, RAG pipelines, and
 
 Focused on deployable LLM applications, vector search, and scalable backend AI systems for financial and data-intensive use cases.
 
-![Cursor](https://img.shields.io/badge/-Cursor-121212?style=flat-square&logo=data-bricks&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Conductor](https://img.shields.io/badge/-Conductor-008080?style=flat-square&logo=airflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-2D8CFF?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1f2937?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -41,34 +38,25 @@ Focused on deployable LLM applications, vector search, and scalable backend AI s
 ### Current Projects
 
 - [**Agentic Hedge Fund**](https://github.com/nadzic/agentic-hedge-fund)  
-  An AI-native, multi-agent research assistant for stock trade ideas.  
-  The project turns a single user prompt into a structured signal by combining:
-  - analyst-specialized agents
-  - retrieval-augmented market context
-  - risk constraints
-  - and a production-style API and frontend
+  AI-native multi-agent research assistant for generating stock trade ideas from a single prompt.
 
   **Tech:** Python, LangChain, LangGraph, FastAPI, Next.js, Qdrant, LlamaIndex
 
 - [**Fine-Tuning & Inference for Financial LLM Systems**](https://github.com/nadzic/mini_quant)  
-  Fine-tuning generative LLMs (Qwen) and cross-encoder reranking models for financial document retrieval using SEC filings and earnings call transcripts. 
+  Fine-tuning Qwen and reranking models for financial document retrieval from SEC filings and earnings calls.
 
   **Tech:** Python, Transformers, PEFT, Qwen, QLora, Unsloth
 
 
 ### Legacy Projects
 
-- [**nintendo_app**](https://github.com/nadzic/nintendo_app)  
-  Legacy Java portfolio app from earlier mobile development experiments.  
-  **Tech:** Java
-
 - [**orderbook**](https://github.com/nadzic/orderbook)  
   Earlier limit order book implementation exploring market microstructure mechanics.  
-  **Tech:** TypeScript
+  **Tech:** TypeScript, React-Native
 
-- [**draw_app**](https://github.com/nadzic/draw_app)  
-  Collaborative drawing app prototype for experimenting with real-time web interactions.  
-  **Tech:** React, Node.js
+- [**nintendo_app**](https://github.com/nadzic/nintendo_app)  
+  Legacy Java portfolio app from earlier mobile development experiments.  
+  **Tech:** JavaScript, React-Native
 
 ### Outside of Work
 
