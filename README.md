@@ -47,14 +47,12 @@ Focused on deployable LLM applications, vector search, and scalable backend AI s
   - retrieval-augmented market context
   - risk constraints
   - and a production-style API and frontend  
-  **Tech:** LangChain, LangGraph, FastAPI, Next.js, Qdrant, LlamaIndex
+**Tech:** LangChain, LangGraph, FastAPI, Next.js, Qdrant, LlamaIndex
 
 - [**Fine-Tuning & Inference for Financial LLM Systems**](https://github.com/nadzic/mini_quant)  
   Fine-tuning generative LLMs (Qwen) and cross-encoder reranking models for financial document retrieval using SEC filings and earnings call transcripts.  
   **Tech:** Python, Transformers, PEFT, Qwen, Unsloth
 
-- **Whoosh** — Senior Software Engineer  
-  Built production systems for a vertical SaaS platform serving 400+ golf clubs.
 
 ### Legacy Projects
 
