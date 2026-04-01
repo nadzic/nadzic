@@ -42,7 +42,7 @@ Focused on deployable LLM applications, vector search, and scalable backend AI s
 
   **Tech:** Python, LangChain, LangGraph, FastAPI, Next.js, Qdrant, LlamaIndex
 
-- [**Fine-Tuning & Inference for Financial LLM Systems**](https://github.com/nadzic/mini_quant)  
+- [**Fine-Tuning & Inference for Financial LLM Systems**](https://github.com/nadzic/fine-tuning-models-agentic-hedge-fund)  
   Fine-tuning Qwen and reranking models for financial document retrieval from SEC filings and earnings calls.
 
   **Tech:** Python, Transformers, PEFT, Qwen, QLora, Unsloth
