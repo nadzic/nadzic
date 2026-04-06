@@ -15,14 +15,16 @@ Focused on deployable LLM applications, vector search, and scalable backend AI s
 ![Unsloth](https://img.shields.io/badge/-Unsloth-23272F?style=flat-square&logo=data-bricks&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-323232?style=flat-square&logo=llama&logoColor=white)
+![Langfuse](https://img.shields.io/badge/-Langfuse-1F1F1F?style=flat-square)
+![DeepEval](https://img.shields.io/badge/-DeepEval-4F46E5?style=flat-square)
 ![RunPod](https://img.shields.io/badge/-RunPod-23304F?style=flat-square&logo=runkeeper&logoColor=white)
 ![vLLM](https://img.shields.io/badge/-vLLM-FFD700?style=flat-square&logo=lightning&logoColor=black)
 
 > Currently building AI systems across agent orchestration, retrieval, inference, and production deployment.
 
-- Founder / AI Engineer at **Exta Labs**
+- Founder / Senior AI Engineer at **Exta Labs**
 - Former Founder at **[Perfeqt](https://perfeqt.co)**
-- Previously built products across SaaS, logistics, marketplaces, and e-commerce
+- Previously built products across SaaS, logistics, marketplaces, wellness and e-commerce
 
 ---
 
@@ -40,28 +42,29 @@ Focused on deployable LLM applications, vector search, and scalable backend AI s
 - [**Agentic Hedge Fund**](https://github.com/nadzic/agentic-hedge-fund)  
   AI-native multi-agent research assistant for generating stock trade ideas from a single prompt.
 
-  **Tech:** Python, LangChain, LangGraph, FastAPI, Next.js, Qdrant, LlamaIndex
+  **Tech:** Python, LangChain, LangGraph, FastAPI, Next.js, Qdrant, LlamaIndex, Langfuse, DeepEval, Docker, Google Cloud Run
 
 - [**Fine-Tuning & Inference for Financial LLM Systems**](https://github.com/nadzic/fine-tuning-models-agentic-hedge-fund)  
   Fine-tuning Qwen and reranking models for financial document retrieval from SEC filings and earnings calls.
 
-  **Tech:** Python, Transformers, PEFT, Qwen, QLora, Unsloth
-
+  **Tech:** Python, Transformers, PEFT, Qwen, QLora, Unsloth, HuggingFace, Runpod
 
 ### Legacy Projects
 
 - [**orderbook**](https://github.com/nadzic/orderbook)  
-  Earlier limit order book implementation exploring market microstructure mechanics.  
+  Earlier limit order book implementation exploring market microstructure mechanics. 
+
   **Tech:** TypeScript, React-Native
 
 - [**nintendo_app**](https://github.com/nadzic/nintendo_app)  
-  Legacy Java portfolio app from earlier mobile development experiments.  
+  Legacy Java portfolio app from earlier mobile development experiments. 
+  
   **Tech:** JavaScript, React-Native
 
 ### Outside of Work
 
 - Biking and going to the gym when I’m not coding
-- AI enthusiast, always testing new tools and optimizing my workflow through parallelism
+- AI enthusiast, always testing new tools and using AI tools to work more in parallel.
 
 ### Let's Connect
 
